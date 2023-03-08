@@ -5,3 +5,14 @@ backend:
   branch: 'main'
   base_url: https://kinderplatz-api.pages.dev
   auth_endpoint: 'auth'
+local_backend: true
+media_folder: public/media
+public_folder: /media
+site_url: https://kinderplatz-api.pages.dev
+collections:
+  - label: Pages
+    name: "pages"
+    folder: content/pages
+    create: true
+    fields:
+    - { label: Title, name: title, widget: string }
