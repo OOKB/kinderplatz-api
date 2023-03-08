@@ -1,0 +1,7 @@
+backend:
+  name: 'github'
+  repo: 'OOKB/kinderplatz-api'
+  app_id: '93b9c3d135179c9c8448c23655c3ba9f3aee70b016ce73b3abcb53f811771f73'
+  branch: 'main'
+  base_url: https://kinderplatz-api.pages.dev
+  auth_endpoint: 'auth'
