@@ -3,8 +3,10 @@ backend:
   repo: 'OOKB/kinderplatz-api'
   app_id: '93b9c3d135179c9c8448c23655c3ba9f3aee70b016ce73b3abcb53f811771f73'
   branch: 'main'
-  base_url: https://kinderplatz-api.pages.dev
-  auth_endpoint: 'https://auth.cape.io/auth'
+  auth_endpoint: auth
+  base_url: https://auth.cape.io/
+
+site_domain: kinderplatz-api.pages.dev
 local_backend: true
 media_folder: public/media
 public_folder: /media
