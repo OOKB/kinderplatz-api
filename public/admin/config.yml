@@ -18,5 +18,5 @@ collections:
     create: true
     fields:
       - { label: Title, name: title, widget: string }
-      - { label: Title, name: title, widget: string }
+      - { label: Slug, name: slug, widget: string }
       - { label: "Body", name: "body", widget: "markdown" }
