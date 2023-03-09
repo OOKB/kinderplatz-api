@@ -6,12 +6,17 @@
   "type": "module",
   "scripts": {
     "data": "node src/index.js",
+    "dev": "wrangler pages dev ./public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "graphql": "^16.6.0",
+    "graphql-compose": "^9.0.10",
+    "graphql-yoga": "^3.7.2",
+    "lodash": "^4.17.21",
     "static-content-api": "^1.0.0"
   }
 }
