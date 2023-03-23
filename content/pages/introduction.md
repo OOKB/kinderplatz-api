@@ -3,7 +3,6 @@ title: Introduction
 slug: introduction
 lastmod: 2023-03-09T21:39:23.296Z
 ---
-
 ## Welcome to Kinderplatz
 
 Thank you for your interest in Kinderplatz. We hope this is the beginning of a wonderful experience for you and your child. The Kinderplatz Childcare and Education Center serves families with children ages 6 weeks through 8 years of age in our 15,000 sq. ft. state-of-the-art space at Norman Pointe II in Bloomington, Minnesota. We accept children regardless of race, sex, religion or national origin.
