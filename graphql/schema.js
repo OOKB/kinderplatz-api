@@ -24,9 +24,10 @@ async function pages(x, args, context) {
   const { pages } = await getContentIndex(context)
   return pages
 }
-async function page(x, { id }, context) {
-  const allPages = await pages(x, null, context) 
-  return allPages.find(_.matches({ id }))
+async function page(x, { id, isSlug }, context) {
+  const allPages = await pages(x, null, context)
+  const matcher = isSlug ? { slug: id } : { id }
+  return allPages.find(_.matches(matcher))
 }
 schemaComposer.Query.addFields({
   pages: {
@@ -35,7 +36,7 @@ schemaComposer.Query.addFields({
   },
   page: {
     type: 'Page',
-    args: { id: 'ID!' },
+    args: { id: 'ID!', isSlug: 'Boolean' },
     resolve: page,
   },
 })
