@@ -1,7 +1,8 @@
 ---
-title: Spanish Immersion Program
+title: Spanish Immersion
 slug: ageGroups/immersion
 ---
+## Spanish Immersion Program
 
 Studies have shown that learning more than one language helps young children academically and culturally. They develop good problem‐solving skills, and a positive awareness of other cultures. The younger children are when exposed to new languages and sounds, the greater the benefits.
 
@@ -21,9 +22,9 @@ The older a person becomes, the harder it is to learn a new language, especially
 
 ### How the Program Works
 
-The Spanish Immersion Program at Kinderplatz follows the Model of Dual Language Instruction for Preschool Children: Teaching Spanish and Supporting English as designed by Angèle Sancho Passe in collaboration with our excellent native-Spanish speaking teachers. The Spanish Immersion teachers follow the same curriculum approach (_The Creative Curriculum_) and use the same assessment system (_Teaching Strategies GOLD®_) as the rest of the center, ensuring consistent growth across all developmental domains in all Kinderplatz programming. All Kinderplatz classrooms utilize play as the primary vehicle for learning and focus on the development of essential social-emotional skills. Please contact the director for more information about the program plan.
+The Spanish Immersion Program at Kinderplatz follows the Model of Dual Language Instruction for Preschool Children: Teaching Spanish and Supporting English as designed by Angèle Sancho Passe in collaboration with our excellent native-Spanish speaking teachers. The Spanish Immersion teachers follow the same curriculum approach (*The Creative Curriculum*) and use the same assessment system (*Teaching Strategies GOLD®*) as the rest of the center, ensuring consistent growth across all developmental domains in all Kinderplatz programming. All Kinderplatz classrooms utilize play as the primary vehicle for learning and focus on the development of essential social-emotional skills. Please contact the director for more information about the program plan.
 
 The program is designed for families who are willing to make a two-year commitment for their children, for both a preschool and pre-kindergarten level of experience, and is best suited to children who attend full-time. This commitment allows the teachers the appropriate length of time to help children develop a strong foundation in Spanish, while also providing adequate support in English and other kindergarten readiness preparation skills.
 
-**PLEASE NOTE:** _The Spanish Immersion Program at Kinderplatz is intended for children whose first language is NOT Spanish and who already meet age-level assessment criteria in English.  
-Also, the Spanish Immersion Program is separate from (and not to be confused with) the instructional Spanish lessons the toddlers and preschoolers receive weekly during the school year. Our instructional Spanish lessons are typically taught by different (usually non-native) long-term staff member(s) with Spanish language education._
+**PLEASE NOTE:** *The Spanish Immersion Program at Kinderplatz is intended for children whose first language is NOT Spanish and who already meet age-level assessment criteria in English.\
+Also, the Spanish Immersion Program is separate from (and not to be confused with) the instructional Spanish lessons the toddlers and preschoolers receive weekly during the school year. Our instructional Spanish lessons are typically taught by different (usually non-native) long-term staff member(s) with Spanish language education.*
