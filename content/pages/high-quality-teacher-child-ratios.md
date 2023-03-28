@@ -1,5 +1,5 @@
 ---
-title: High Quality Teacher-Child Ratios
+title: Child/Teacher Ratios
 slug: agegroups/ratios
 ---
 ## High Quality Teacher-Child Ratios
