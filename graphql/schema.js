@@ -9,14 +9,34 @@ export function getContentIndex(context) {
   url.pathname = '/data/index.json'
   return ASSETS.fetch(url).then((res) => res.json())
 }
-
+const HeadingTC = schemaComposer.createObjectTC({
+  name: 'Heading',
+  fields: {
+    id: 'String!',
+    depth: 'Int!',
+    title: 'String!',
+    url: 'String',
+  }
+})
+const FileInfoTC = schemaComposer.createObjectTC({
+  name: 'FileInfo',
+  fields: {
+    ctime: 'String!',
+    mtime: 'String!',
+    title: 'String!',
+    size: 'Int!',
+  }
+})
 const PageTC = schemaComposer.createObjectTC({
   name: 'Page',
   fields: {
     id: 'ID!',
+    collection: 'String',
     content: 'String',
     slug: 'String',
     title: 'String',
+    headings: [HeadingTC],
+    info: FileInfoTC,
   }
 })
 
