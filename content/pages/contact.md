@@ -8,18 +8,3 @@ For more information about enrollment, our programs, or to schedule a virtual to
 
 * **Directors:** Barbara Hamilton and Kristi McKee
 * **Accounts Manager:** Michelle Byers
-
-### Address
-
-Norman Pointe II \
-5600 American Boulevard West \
-Suite #180 \
-Bloomington, MN 55437 \
-(next to Renaissance Hotel)
-
-### Contact
-
-Telephone: (612) 725-3481 \
-*Urgent: (612) 599-9178 (Barb Hamilton)* \
-Fax: (612) 725-3700 \
-Email: [Office.team@kinderplatzkids.com](mailto:Office.team@kinderplatzkids.com)
