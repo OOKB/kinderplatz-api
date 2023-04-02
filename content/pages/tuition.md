@@ -4,7 +4,12 @@ slug: tuition
 description: ""
 date: 2023-03-09T11:33:51.714Z
 draft: false
-lastmod: 2023-03-09T11:34:20.160Z
+lastmod: 2023-04-02T09:50:09.385Z
+images:
+  - alt: Child foot with finger paint
+    src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
+  - alt: Boy with knit blue hat
+    src: /images/general/michael-podger-1hBm6dmUrH0-unsplash.jpg
 ---
 
 All rates listed below include most enrichment programs, as well as lunch and snacks (does not include special dietary requirements). Some activity fees are charged separately. Tuition is due in full by 10:00 every Tuesday. A late fee of $30 (per week) is applied to any past due charges and returned checks.

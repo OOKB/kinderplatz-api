@@ -1,6 +1,15 @@
 ---
 title: Contact
 slug: contact
+links:
+  - name: Kinderplatz Photos
+    href: /gallery
+lastmod: 2023-04-02T09:46:39.799Z
+images:
+  - alt: girl looking through magnifying glass
+    src: /images/general/elizaveta-dushechkina-XPLCCRTX3ic-unsplash.jpg
+  - alt: boy reading map
+    src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
 ---
 ## Contact Us
 

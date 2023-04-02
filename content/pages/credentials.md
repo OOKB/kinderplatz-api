@@ -1,6 +1,12 @@
 ---
 title: Credentials
 slug: credentials
+images:
+  - alt: confetti
+    src: /images/general/jason-leung-Xaanw0s0pMk-unsplash.jpg
+  - alt: check
+    src: /images/general/lewis-keegan-skillscouter-com-XQaqV5qYcXg-unsplash.jpg
+lastmod: 2023-04-02T09:48:43.813Z
 ---
 ## Credentials
 

@@ -1,6 +1,8 @@
 ---
 title: Our Approach
+name: Approach
 slug: approach
+lastmod: 2023-03-31T15:58:49.007Z
 ---
 ## Welcome to Kinderplatz
 

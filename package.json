@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "cms": "pnpx netlify-cms-proxy-server",
     "data": "node src/index.js",
     "dev": "wrangler pages dev ./public",
     "publish": "wrangler pages publish ./public --project-name=kinderplatz-api",

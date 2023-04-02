@@ -1,5 +1,6 @@
 backend:
-  name: 'github'
+  name: 'git-gateway'
+  # name: github
   repo: 'OOKB/kinderplatz-api'
   app_id: '93b9c3d135179c9c8448c23655c3ba9f3aee70b016ce73b3abcb53f811771f73'
   branch: 'main'
@@ -8,6 +9,10 @@ backend:
 
 site_domain: kinderplatz-api.pages.dev
 local_backend: true
+# media_library:
+#   name: uploadcare
+#   config:
+#     publicKey: 'ac121cbded935a504272'
 media_folder: public/media
 public_folder: /media
 site_url: https://kinderplatz-api.pages.dev
@@ -20,3 +25,26 @@ collections:
       - { label: Title, name: title, widget: string }
       - { label: Slug, name: slug, widget: string }
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: Related Links
+        name: links
+        widget: list
+        fields:
+          - { label: Name, name: name, widget: string }
+          - { label: URL, name: href, widget: string }
+      - label: "Images"
+        name: "images"
+        widget: list
+        required: false
+        fields:
+          - label: Image
+            name: src
+            widget: "image"
+            choose_url: true
+            required: true
+            media_library:
+              config:
+                multiple: true
+          - label: Alt Text
+            name: alt
+            widget: string
+            required: true

@@ -27,6 +27,21 @@ const FileInfoTC = schemaComposer.createObjectTC({
     size: 'Int!',
   }
 })
+const ImageTC = schemaComposer.createObjectTC({
+  name: 'Image',
+  fields: {
+    alt: 'String!',
+    src: 'String!',
+  },
+})
+const LinkTC = schemaComposer.createObjectTC({
+  name: 'Link',
+  fields: {
+    name: 'String!',
+    href: 'String!',
+  },
+})
+
 const PageTC = schemaComposer.createObjectTC({
   name: 'Page',
   fields: {
@@ -37,6 +52,8 @@ const PageTC = schemaComposer.createObjectTC({
     title: 'String',
     headings: [HeadingTC],
     info: FileInfoTC,
+    images: [ImageTC],
+    links: [LinkTC],
   }
 })
 

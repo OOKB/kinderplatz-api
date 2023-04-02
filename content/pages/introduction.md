@@ -1,7 +1,21 @@
 ---
 title: Introduction
 slug: introduction
-lastmod: 2023-03-09T21:39:23.296Z
+lastmod: 2023-04-02T14:21:15.073Z
+images:
+  - alt: kid looking at map
+    src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
+  - alt: kid reading book
+    src: /images/general/jonathan-borba-Z1Oyw2snqn8-unsplash.jpg
+  - alt: baby with musical toy
+    src: /images/general/jelleke-vanooteghem-bNUGJD3gO94-unsplash.jpg
+links:
+  - name: Spanish Immersion Preschool Program
+    href: /agegroups/immersion
+  - name: Testimonials
+    href: /testimonials
+  - name: Kinderplatz Photos
+    href: /gallery
 ---
 ## Welcome to Kinderplatz
 

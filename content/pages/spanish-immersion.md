@@ -1,6 +1,7 @@
 ---
 title: Spanish Immersion
-slug: ageGroups/immersion
+slug: agegroups/immersion
+lastmod: 2023-03-31T15:57:08.628Z
 ---
 ## Spanish Immersion Program
 
