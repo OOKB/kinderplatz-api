@@ -2,15 +2,7 @@
 title: Our Approach
 name: Approach
 slug: approach
-lastmod: 2023-04-02T19:24:29.946Z
-images:
-  - alt: boy smiles
-    src: /images/general/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
-  - alt: hand prints
-    src: /images/general/bernard-hermant-5zu86kyV_UY-unsplash.jpg
-links:
-  - name: Program Goals
-    href: /approach/goals
+lastmod: 2023-04-25T14:16:30.190Z
 ---
 ## Welcome to Kinderplatz
 

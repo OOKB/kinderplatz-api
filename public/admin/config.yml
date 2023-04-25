@@ -17,6 +17,74 @@ media_folder: public/media
 public_folder: /media
 site_url: https://kinderplatz-api.pages.dev
 collections:
+  - label: Data
+    name: 'data'
+    files:
+      - label: Sections
+        name: sections
+        file: content/data/sections.yaml
+        fields:
+          - label: Default Color
+            name: color
+            widget: select
+            options: ['sky', 'orange', 'lime', 'fuchsia', 'yellow', 'red', 'pink']
+          - label: Menu Length
+            name: menuSize
+            hint: The max number of sections to display in the top header menu.
+            widget: number
+            min: 2
+            max: 8
+          - label: Section Pages
+            name: sections
+            widget: list
+            allow_add: true
+            summary: "{{fields.page}}"
+            fields:
+              # - {label: } // reference
+              - label: Section Page
+                name: page
+                widget: relation
+                collection: pages
+                search_fields: ['title']
+                value_field: slug
+                display_fields: ['title']
+              - label: Section Color
+                name: sectionColor
+                widget: select
+                # colors must match tailwind.config.cjs -> colorIds variable.
+                options: ['sky', 'orange', 'lime', 'fuchsia', 'yellow', 'red', 'pink']
+              - label: Title Override
+                name: name
+                widget: string
+                required: false
+              - label: Related Links
+                name: links
+                widget: relation
+                collection: pages
+                search_fields: ['title']
+                value_field: slug
+                display_fields: ['title']
+                multiple: true
+                required: false
+              - label: "Images"
+                name: "images"
+                widget: list
+                required: false
+                max: 3
+                fields:
+                  - label: Image
+                    name: src
+                    widget: "image"
+                    choose_url: true
+                    required: true
+                    media_library:
+                      config:
+                        multiple: true
+                  - label: Alt Text
+                    name: alt
+                    widget: string
+                    required: true
+
   - label: Pages
     name: "pages"
     folder: content/pages
@@ -31,20 +99,3 @@ collections:
         fields:
           - { label: Name, name: name, widget: string }
           - { label: URL, name: href, widget: string }
-      - label: "Images"
-        name: "images"
-        widget: list
-        required: false
-        fields:
-          - label: Image
-            name: src
-            widget: "image"
-            choose_url: true
-            required: true
-            media_library:
-              config:
-                multiple: true
-          - label: Alt Text
-            name: alt
-            widget: string
-            required: true
