@@ -36,10 +36,41 @@ sections:
         alt: finger paint with feet
       - src: /images/general/michael-podger-1hBm6dmUrH0-unsplash.jpg
         alt: child wearing a knit blue hat
-        
+    links:
+      - enrichment/variable
+      - enrichment/fieldtrips
+      - enrichment/kinderroo
+
   - page: credentials
     sectionColor: fuchsia
+    images:
+      - alt: confetti
+        src: /images/general/jason-leung-Xaanw0s0pMk-unsplash.jpg
+      - alt: check
+        src: /images/general/lewis-keegan-skillscouter-com-XQaqV5qYcXg-unsplash.jpg
+    links:
+      - credentials/staff
   - page: contact
     sectionColor: red
+    links:
+      - gallery
+    images:
+      - alt: girl looking through magnifying glass
+        src: /images/general/elizaveta-dushechkina-XPLCCRTX3ic-unsplash.jpg
+      - alt: boy reading map
+        src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
   - page: testimonials
     sectionColor: pink
+    images:
+      - src: /images/general/mike-fox-Ym301WfcEkE-unsplash.jpg
+        alt: child holding foam paint brush that has pink paint on it
+      - src: /images/general/senjuti-kundu-JfolIjRnveY-unsplash.jpg
+        alt: smiling child looking up with paint on face neck and arms
+      - src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
+  - page: gallery
+    sectionColor: pink
+  - page: enrichment
+    images:
+      - src: /images/general/la-rel-easter-KuCGlBXjH_o-unsplash.jpg
+        alt: arm of child playing game of stacking colored blocks
+      - src: /images/general/ashton-bingham-SAHBl2UpXco-unsplash.jpg

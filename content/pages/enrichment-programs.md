@@ -1,8 +1,9 @@
 ---
 title: Enrichment Programs
-slug: approach/enrichment
+slug: enrichment
+lastmod: 2023-06-13T14:26:38.575Z
+redirect: approach/enrichment
 ---
-
 
 ## Enrichment Programs
 
