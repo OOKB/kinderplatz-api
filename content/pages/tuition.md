@@ -4,7 +4,7 @@ slug: tuition
 description: ""
 date: 2023-03-09T11:33:51.714Z
 draft: false
-lastmod: 2023-06-15T19:13:11.571Z
+lastmod: 2023-04-02T09:50:09.385Z
 images:
   - alt: Child foot with finger paint
     src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
@@ -41,13 +41,9 @@ Kinderplatz accepts families who receive child care subsidies from various count
 
 **Federal and Non-Federal Families**
 
-Registration Fee + Deposit: $130 (federal)/$160 (non-federal) + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED OR ACCEPTED UNTIL A CHILD’S START DATE IS CONFIRMED.Ɨ*
-
-*Holding Fee:* Holding fee program is not currently available during and will be reinstated at a future date (TBD).
-
-|﻿Federal Association Dues|Hourly/Overtime Care|School Age|
-|﻿----|----|----|
-|﻿$100/year\*\*|$15/hour (when space allows)|$250/week, or $65/day (summer, when space allows)|
+|Registration Fee + Deposit|*Holding Fee*|﻿Federal Association Dues|Hourly/Overtime Care|School Age|
+|﻿----|----|----|----|
+|$130 (federal)/$160 (non-federal) + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED OR ACCEPTED UNTIL A CHILD’S START DATE IS CONFIRMED.Ɨ*|Holding fee program unavailable; reinstatement date TBD.|﻿$100/year\*\*|$15/hour (when space allows)|$250/week, or $65/day (summer, when space allows)|
 
 **\*** Sibling Discount of 10% off tuition is available for additional (older) child(ren) for full-time families with (all) siblings on a full-time schedule.
 
