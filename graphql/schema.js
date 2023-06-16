@@ -79,7 +79,7 @@ const FileInfoTC = schemaComposer.createObjectTC({
 const ImageTC = schemaComposer.createObjectTC({
   name: 'Image',
   fields: {
-    alt: 'String!',
+    alt: 'String',
     src: 'String!',
   },
 })

@@ -67,6 +67,7 @@ sections:
       - src: /images/general/senjuti-kundu-JfolIjRnveY-unsplash.jpg
         alt: smiling child looking up with paint on face neck and arms
       - src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
+        alt: right foot of child painting on white paper
   - page: gallery
     sectionColor: pink
   - page: enrichment
@@ -74,3 +75,4 @@ sections:
       - src: /images/general/la-rel-easter-KuCGlBXjH_o-unsplash.jpg
         alt: arm of child playing game of stacking colored blocks
       - src: /images/general/ashton-bingham-SAHBl2UpXco-unsplash.jpg
+        alt: Boy in blue shirt yelling near boy in green crew-neck shirt
