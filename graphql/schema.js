@@ -20,13 +20,14 @@ function addPagesToSections({ data, pages }) {
 
   const pageGet = _.propertyOf(pageIndex)
   const sections = data.find(({ id }) => id === 'sections')
-  const { color } = sections
+  const { color, menuSize } = sections
   function getLinks({ id, links }) {
     const links1 = sectionPages[id] || []
     return _.uniqBy(_.get('id'), links1.concat(links))
   }
   return sections.sections
     .map(_.flow(
+      (x, index) => _.set('menuItem', index < menuSize, x),
       _.defaults({ sectionColor: color }),
       _.update('page', pageGet),
       setFieldWith('id', 'page', _.get('slug')),
@@ -48,6 +49,7 @@ function buildIndexes(allData) {
   const pages = addSectionToPages(allData.pages, sectionGet)
   return {
     pages,
+    sections,
     sectionIndex,
     sectionGet,
   }
@@ -131,6 +133,11 @@ async function getPage(x, { id, isSlug }, context) {
   }
   return page
 }
+async function getSections(x, { menuItemsOnly }, context) {
+  const { sections } = await getContentIndex(context)
+  if (menuItemsOnly) return sections.filter(_.matches({ menuItem: true }))
+  return sections
+}
 schemaComposer.Query.addFields({
   page: {
     type: 'Page',
@@ -146,10 +153,11 @@ schemaComposer.Query.addFields({
   //   args: { id: 'ID!' },
   //   resolve: section,
   // },
-  // sections: {
-  //   type: '[Section]',
-  //   resolve: sections,
-  // }
+  sections: {
+    type: '[Section]',
+    args: { menuItemsOnly: 'Boolean' },
+    resolve: getSections,
+  },
 })
 const schema = schemaComposer.buildSchema()
 export default schema
