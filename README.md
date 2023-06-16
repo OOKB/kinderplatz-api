@@ -2,6 +2,8 @@
 
 Github actions deploy using the Cloudflare Pages product.
 
+* https://kinderplatz-api.pages.dev/graphql
+
 ### Sections
 * match direct page
 * include h2 links
