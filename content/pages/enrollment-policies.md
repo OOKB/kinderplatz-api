@@ -1,10 +1,10 @@
 ---
 title: Enrollment Policies
-slug: tuition
+slug: tuition/policies
 description: ""
 date: 2023-03-09T11:33:51.714Z
 draft: false
-lastmod: 2023-06-13T11:46:32.377Z
+lastmod: 2023-06-16T13:34:04.198Z
 ---
 
 ## Full-time/Part-time Enrollment Policies

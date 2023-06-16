@@ -28,7 +28,8 @@ sections:
         alt: child plays with lego blocks
       - src: /images/general/wendy-aros-routman-DuIPj3lqItY-unsplash.jpg
         alt: child ready to throw large orange ball
-    links: []
+    links:
+      - gallery
   - page: tuition
     sectionColor: sky
     images:
