@@ -126,7 +126,9 @@ async function getPage(x, { id, isSlug }, context) {
   const { pages } = await getContentIndex(context)
   const matcher = isSlug ? { slug: id } : { id }
   const page = pages.find(_.matches(matcher))
-  console.log(page)
+  if (!page && isSlug) {
+    return pages.find(_.matches({ redirect: id }))
+  }
   return page
 }
 schemaComposer.Query.addFields({
