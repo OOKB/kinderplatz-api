@@ -30,7 +30,7 @@ function addPagesToSections({ data, pages }) {
       _.defaults({ sectionColor: color }),
       _.update('page', pageGet),
       setFieldWith('id', 'page', _.get('slug')),
-      _.update('links', _.map(pageGet)),
+      _.update('links', _.flow(_.map(pageGet), _.compact)),
       setField('pages', getPages),
     ))
 }
