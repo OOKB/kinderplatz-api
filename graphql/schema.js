@@ -21,9 +21,8 @@ function addPagesToSections({ data, pages }) {
   const pageGet = _.propertyOf(pageIndex)
   const sections = data.find(({ id }) => id === 'sections')
   const { color, menuSize } = sections
-  function getLinks({ id, links }) {
-    const links1 = sectionPages[id] || []
-    return _.uniqBy(_.get('id'), links1.concat(links))
+  function getPages({ id }) {
+    return sectionPages[id] || []
   }
   return sections.sections
     .map(_.flow(
@@ -32,7 +31,7 @@ function addPagesToSections({ data, pages }) {
       _.update('page', pageGet),
       setFieldWith('id', 'page', _.get('slug')),
       _.update('links', _.map(pageGet)),
-      setField('links', getLinks),
+      setField('pages', getPages),
     ))
 }
 
@@ -112,8 +111,9 @@ const SectionTC = schemaComposer.createObjectTC({
   name: 'Section',
   fields: {
     id: 'ID!',
-    page: () => PageTC,
-    links: () => [PageTC],
+    page: PageTC,
+    links: [PageTC],
+    pages: [PageTC],
     sectionColor: 'String',
     images: [ImageTC],
   },
