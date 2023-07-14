@@ -6,6 +6,8 @@ slug: enrichment/fieldtrips
 
 ## Field Trips / In-house Events
 
+*This is only a sample!*
+
 *Please note:* Summer themes, events and field trip locations change from year to year.  
 Below is just an example of a typical summer full of fun and learning at Kinderplatz.
 
