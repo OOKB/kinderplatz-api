@@ -11,6 +11,9 @@ images:
   - alt: Boy with knit blue hat
     src: /images/general/michael-podger-1hBm6dmUrH0-unsplash.jpg
 ---
+
+## Tuition
+
 All rates listed below include most enrichment programs, as well as lunch and snacks (does not include special dietary requirements). Some activity fees are charged separately. Tuition is due in full by 10:00 every Tuesday. A late fee of $30 (per week) is applied to any past due charges and returned checks.
 
 Electronic forms of payment are strongly preferred. Paying via an active electronic payment account will keep the account current and avoid assessment of late payment fees. Please contact our Accounts Manager to set up electronic payments.
