@@ -4,12 +4,7 @@ slug: tuition
 description: ""
 date: 2023-03-09T11:33:51.714Z
 draft: false
-lastmod: 2023-06-19T10:36:51.255Z
-images:
-  - alt: Child foot with finger paint on paper
-    src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
-  - alt: Boy with knit blue hat standing in front of a yellow wall looking off into the distance
-    src: /images/general/michael-podger-1hBm6dmUrH0-unsplash.jpg
+lastmod: 2023-07-17T11:38:51.255Z
 ---
 
 ## Tuition
