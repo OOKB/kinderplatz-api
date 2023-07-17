@@ -139,6 +139,9 @@ async function getSections(x, { menuItemsOnly }, context) {
   return sections
 }
 schemaComposer.Query.addFields({
+  blocks: {
+    type: '[Block]',
+  },
   page: {
     type: 'Page',
     args: { id: 'ID!', isSlug: 'Boolean' },

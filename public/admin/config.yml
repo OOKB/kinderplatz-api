@@ -20,6 +20,53 @@ collections:
   - label: Data
     name: 'data'
     files:
+      - label: Blocks
+        name: blocks
+        file: content/data/blocks.yaml
+        fields:
+          - label: Blocks
+            name: blocks
+            widget: list
+            allow_add: true
+            summary: "{{fields.page}}"
+            fields:
+              # - {label: } // reference
+              - label: Link
+                name: link
+                required: false
+                widget: relation
+                collection: pages
+                search_fields: ['title']
+                value_field: slug
+                display_fields: ['title']
+              - label: Color
+                name: color
+                required: false
+                widget: select
+                # colors must match tailwind.config.cjs -> colorIds variable.
+                options: ['sky', 'orange', 'lime', 'fuchsia', 'yellow', 'red', 'pink']
+              - label: Word
+                name: word
+                widget: string
+                required: false
+              - label: "Image"
+                name: "image"
+                widget: object
+                required: false
+                fields:
+                  - label: Image
+                    name: src
+                    widget: "image"
+                    choose_url: true
+                    required: true
+                    media_library:
+                      config:
+                        multiple: true
+                  - label: Alt Text
+                    name: alt
+                    widget: string
+                    required: true
+
       - label: Sections
         name: sections
         file: content/data/sections.yaml
