@@ -1,12 +1,7 @@
 ---
 title: Contact
 slug: contact
-lastmod: 2023-06-13T10:56:36.108Z
-images:
-  - alt: Child in blue sweatshirt with white polkadots peering through a large magnifying glass
-    src: /images/general/elizaveta-dushechkina-XPLCCRTX3ic-unsplash.jpg
-  - alt: Boy in green shirt looking at a map
-    src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
+lastmod: 2023-07-17T15:33:56.723Z
 ---
 ## Contact Us
 
