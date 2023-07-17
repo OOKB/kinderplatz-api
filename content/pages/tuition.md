@@ -6,9 +6,9 @@ date: 2023-03-09T11:33:51.714Z
 draft: false
 lastmod: 2023-06-19T10:36:51.255Z
 images:
-  - alt: Child foot with finger paint
+  - alt: Child foot with finger paint on paper
     src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
-  - alt: Boy with knit blue hat
+  - alt: Boy with knit blue hat standing in front of a yellow wall looking off into the distance
     src: /images/general/michael-podger-1hBm6dmUrH0-unsplash.jpg
 ---
 
@@ -20,33 +20,34 @@ Electronic forms of payment are strongly preferred. Paying via an active electro
 
 Kinderplatz accepts families who receive child care subsidies from various county or government assistance programs, including Military Subsidy programs.
 
-*Weekly Tuition Rates Effective Until March 3, 2023*
+*TUITION FEES AND POLICIES March 6, 2023 – September 1, 2023*
+The fees and policies will be re-evaluated prior to September pending status of health crisis and state grant funding.
 
 ### Non-Federal Families
 
 | Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young Preschool | Preschool/ Pre-k | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | --------------- | ---------------- | ----------------- |
-| 4–5*                              | $457.00 | $448.00          | $360.00        | $341.00         | $324.00          | $334.00           |
-| 3                                 | $339.00 | $334.00          | $268.00        | $254.00         | $241.00          | $249.00           |
-| 2                                 | $227.00 | $225.00          | $186.00        | $175.00         | $164.00          | $169.00           |
-| Daily Drop-In (when space allows) | $116.00 | $113.00          | $91.00         | $86.00          | $83.00           | $86.00            |
+| 4–5*                              | $482.00 | $470.00          | $380.00        | $357.00         | $339.00          | $350.00           |
+| 3                                 | $357.00 | $350.00          | $283.00        | $266.00         | $252.00          | $261.00           |
+| 2                                 | $239.00 | $236.00          | $196.00        | $183.00         | $171.00          | $177.00           |
+| Daily Drop-In (when space allows) | $122.00 | $118.00          | $96.00         | $86.00          | $87.00           | $90.00            |
 
 ### Federal Families
 
 | Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young Preschool | Preschool/ Pre-K | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | --------------- | ---------------- | ----------------- |
-| 4–5*                              | $432.00 | $423.00          | $348.00        | $327.00         | $310.00          | $320.00           |
-| 3                                 | $321.00 | $314.00          | $258.00        | $237.00         | $233.00          | $241.00           |
-| 2                                 | $217.00 | $210.00          | $173.00        | $159.00         | $155.00          | $160.00           |
-| Daily Drop-In (when space allows) | $110.00 | $106.00          | $87.00         | $81.00          | $80.00           | $83.00            |
+| 4–5*                              | $455.00 | $443.00          | $367.00        | $342.00         | $324.00          | $335.00           |
+| 3                                 | $338.00 | $329.00          | $272.00        | $248.00         | $243.00          | $252.00           |
+| 2                                 | $229.00 | $220.00          | $183.00        | $166.00         | $162.00          | $168.00           |
+| Daily Drop-In (when space allows) | $116.00 | $111.00          | $92.00         | $85.00          | $84.00           | $87.00            |
 
 ## Terms
 
 **Federal and Non-Federal Families**
 
 |Registration Fee + Deposit|$130 (federal)/$160 (non-federal) + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED OR ACCEPTED UNTIL A CHILD’S START DATE IS CONFIRMED.Ɨ*|
-|*Holding Fee*|Holding fee program unavailable; reinstatement date TBD.|
-﻿|Federal Association Dues|$100/year\*\*|
+|Holding Fee|Holding fee program unavailable; reinstatement date TBD.|
+|Federal Association Dues|$100/year\*\*|
 |Hourly/Overtime Care|$15/hour (when space allows)|
 |School Age|$250/week, or $65/day (summer, when space allows)|
 
