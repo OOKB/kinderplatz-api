@@ -4,7 +4,7 @@ slug: tuition
 description: ""
 date: 2023-03-09T11:33:51.714Z
 draft: false
-lastmod: 2023-07-17T11:38:51.255Z
+lastmod: 2023-07-17T15:37:49.649Z
 ---
 
 ## Tuition
