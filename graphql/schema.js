@@ -127,7 +127,10 @@ const PageTC = schemaComposer.createObjectTC({
     },
     section: () => SectionTC,
     sectionId: 'String',
-    headings: [HeadingTC],
+    headings: {
+      type: [HeadingTC],
+      resolve: _.flow(_.get('headings'), _.filter(_.get('id'))),
+    },
     info: FileInfoTC,
     images: [ImageTC],
     weight: 'Int',
