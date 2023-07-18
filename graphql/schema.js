@@ -136,6 +136,7 @@ const SectionTC = schemaComposer.createObjectTC({
     pages: [PageTC],
     sectionColor: 'String',
     images: [ImageTC],
+    menuItem: 'Boolean',
   },
 })
 
