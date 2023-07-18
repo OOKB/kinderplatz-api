@@ -1,7 +1,8 @@
 ---
-title: Photo Gallery
+title: Kinderplatz Photos
 slug: gallery
-lastmod: 2023-07-18T13:11:27.444Z
+name: Gallery
+lastmod: 2023-07-18T14:04:40.179Z
 ---
 
 ## Take a look around Kinderplatz!

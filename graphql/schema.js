@@ -117,7 +117,14 @@ const PageTC = schemaComposer.createObjectTC({
     id: 'ID!',
     content: 'String',
     slug: 'String',
-    title: 'String',
+    title: 'String', // Link and page titles
+    name: {
+      type: 'String',
+      description: 'Header Background',
+      resolve: ({ name, title }) => (name || title),
+      // also request `title` field which must be loaded from database
+      projection: { title: true },
+    },
     section: () => SectionTC,
     sectionId: 'String',
     headings: [HeadingTC],
@@ -133,7 +140,13 @@ const SectionTC = schemaComposer.createObjectTC({
     id: 'ID!',
     page: PageTC,
     links: [PageTC],
-    pages: [PageTC],
+    pages: {
+      type: [PageTC],
+      args: { hideSectionPage: 'Boolean' },
+      resolve: ({ pages }, { hideSectionPage }) => {
+        return hideSectionPage ? _.tail(pages) : pages
+      },
+    },
     sectionColor: 'String',
     images: [ImageTC],
     menuItem: 'Boolean',

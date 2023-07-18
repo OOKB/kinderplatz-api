@@ -1,7 +1,8 @@
 ---
-title: Contact
+title: Contact Us
+name: Contact
 slug: contact
-lastmod: 2023-07-17T15:33:56.723Z
+lastmod: 2023-07-18T14:00:56.062Z
 ---
 ## Contact Us
 
