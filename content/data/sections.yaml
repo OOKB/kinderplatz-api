@@ -36,7 +36,7 @@ sections:
       - src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
         alt: Child foot with finger paint on paper
       - src: /images/general/michael-podger-1hBm6dmUrH0-unsplash.jpg
-        alt:  Boy with knit blue hat standing in front of a yellow wall looking off into the distance
+        alt: Boy with knit blue hat standing in front of a yellow wall looking off into the distance
     links:
       - enrichment/variable
       - enrichment/fieldtrips
