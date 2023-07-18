@@ -1,7 +1,7 @@
 ---
 title: Credentials
 slug: credentials
-lastmod: 2023-07-18T18:20:24.953Z
+lastmod: 2023-07-18T18:24:20.650Z
 ---
 ## Credentials
 
@@ -9,7 +9,7 @@ Kinderplatz is licensed by the Minnesota Department of Human Services and has be
 
 ---
 
-[![MN DHS Logo](/images/logo/dhs-logo-rgb-color-1200x338-transparent.png)](https://mn.gov/dhs//)
-[![NAEYC Logo](/images/logo/naeyc-logo.png)](https://www.naeyc.org/)
+[![MN DHS Logo](/images/w450/logo/dhs-logo-rgb-color-1200x338-transparent.png)](https://mn.gov/dhs//)
+[![NAEYC Logo](/images/w450/logo/naeyc-logo.png)](https://www.naeyc.org/)
 
 ---
