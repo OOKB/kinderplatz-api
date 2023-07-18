@@ -49,8 +49,6 @@ sections:
         src: /images/general/jason-leung-Xaanw0s0pMk-unsplash.jpg
       - alt: check
         src: /images/general/lewis-keegan-skillscouter-com-XQaqV5qYcXg-unsplash.jpg
-    links:
-      - credentials/staff
   - page: contact
     sectionColor: red
     links:
