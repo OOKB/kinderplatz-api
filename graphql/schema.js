@@ -1,6 +1,6 @@
 import { schemaComposer } from 'graphql-compose'
 import _ from 'lodash/fp.js'
-import { setField, setFieldWith } from 'prairie'
+import { setField, setFieldWhen, setFieldWith } from 'prairie'
 // import { createSchema } from 'graphql-yoga'
 
 function getDataFile(context, fileId, ext = 'json') {
@@ -11,11 +11,17 @@ function getDataFile(context, fileId, ext = 'json') {
 }
 
 const getSectionId = _.flow(_.split('/'), _.first)
+const isSectionPage = ({ sectionId, slug }) => (sectionId === slug)
+const fixSectionPage = _.flow(
+  setFieldWith('sectionId', 'slug', getSectionId),
+  _.defaults({'weight': 10}),
+  setFieldWhen('weight', _.constant(0), isSectionPage),
+)
 function addPagesToSections({ data, pages }) {
   const pageIndex = _.keyBy('slug', pages)
   const sectionPages = _.groupBy(
     'sectionId',
-    pages.map(setFieldWith('sectionId', 'slug', getSectionId)),
+    _.sortBy(['weight', 'slug'], pages.map(fixSectionPage)),
   )
 
   const pageGet = _.propertyOf(pageIndex)
@@ -57,6 +63,18 @@ function buildIndexes(allData) {
 export function getContentIndex(context) {
   return getDataFile(context, 'index').then(buildIndexes)
 }
+
+const BlockTC = schemaComposer.createObjectTC({
+  name: 'Block',
+  fields: {
+    id: 'Int!',
+    word: 'String',
+    color: 'String',
+    link: 'String',
+    alt: 'String',
+    img: 'String',
+  },
+})
 
 const HeadingTC = schemaComposer.createObjectTC({
   name: 'Heading',
@@ -101,9 +119,11 @@ const PageTC = schemaComposer.createObjectTC({
     slug: 'String',
     title: 'String',
     section: () => SectionTC,
+    sectionId: 'String',
     headings: [HeadingTC],
     info: FileInfoTC,
     images: [ImageTC],
+    weight: 'Int',
     // links: [LinkTC],
   },
 })
