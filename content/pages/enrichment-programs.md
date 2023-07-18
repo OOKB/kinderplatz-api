@@ -29,5 +29,5 @@ Please click on the links below to learn more about each of the enrichment progr
 
 ### [Programs with Additional Fees](/enrichment/fee)
 
-* [Field Trips](/enrichment/fieldtrips
+* [Field Trips](/enrichment/fieldtrips)
 * [Kinderroo Soccer](/enrichment/kinderroo)
