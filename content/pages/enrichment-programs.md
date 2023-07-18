@@ -15,19 +15,19 @@ Programs provided for an affordable, additional fee are: Kinderroo Soccer (durin
 
 Please click on the links below to learn more about each of the enrichment programs available to children and families at Kinderplatz.
 
-### [No cost (Integrated) Programs](https://kinderplatzkids.com/enrichment/nocost)
+### [No cost (Integrated) Programs](/enrichment/nocost)
 
-* [Spanish Immersion Program](https://kinderplatzkids.com/ageGroups/immersion)
-* [Spanish Language Instruction](https://kinderplatzkids.com/enrichment/nocost.html#spanish)
-* [Music and Movement](https://kinderplatzkids.com/enrichment/nocost.html#music)
-* [Sign Language](https://kinderplatzkids.com/enrichment/nocost.html#signLanguage)
-* [Cultural Enrichment](https://kinderplatzkids.com/enrichment/nocost.html#cultural)
+* [Spanish Immersion Program](/enrichment/immersion)
+* [Spanish Language Instruction](/enrichment/nocost#spanish-language-instruction)
+* [Music and Movement](/enrichment/nocost#music-and-movement)
+* [Sign Language](/enrichment/nocost#sign-language)
+* [Cultural Enrichment](/enrichment/nocost#cultural-enrichment)
 
-### [Variable Cost Programs](https://kinderplatzkids.com/enrichment/variable.html)
+### [Variable Cost Programs](/enrichment/variable)
 
-* [In-House Events](https://kinderplatzkids.com/enrichment/variable.html#inhouse)
+* [In-House Events](/enrichment/variable#in-house-events)
 
-### [Programs with Additional Fees](https://kinderplatzkids.com/approach/approach-08-03-addtlfee.html)
+### [Programs with Additional Fees](/enrichment/fee)
 
-* [Field Trips](https://kinderplatzkids.com/enrichment/fieldtrips.html)
-* [Kinderroo Soccer](https://kinderplatzkids.com/enrichment/kinderroo.html)
+* [Field Trips](/enrichment/fieldtrips
+* [Kinderroo Soccer](/enrichment/kinderroo)
