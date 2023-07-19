@@ -17,17 +17,21 @@ Note: Children may attend up to 10 hours per day. Overtime charges apply to any 
 
 **Weekly Contract:** Families that enroll their child(ren) part-time must contract for specific days of the week, to be changed only upon approval from the Directors. Families that wish to attend on different days each week must pay for a full-time slot in their child(ren)’s classroom(s), in order to allow for this type of scheduling flexibility.
 
-### Vacation/Sick Leave<sup>¶</sup>
+### Vacation/Sick Leave\*\**
 
 **Full-Time:** Six months after each child’s confirmed start date, children who are enrolled full-time are eligible for two weeks of vacation/sick leave tuition credit per enrollment year. Vacation/sick leave must be used as a full week (Monday–Friday). Kinderplatz requires a two-week notice for one of these weeks and will accept short notice for the other week.
 
 **Part-Time:** Six months after each child’s confirmed start date, children who are enrolled part-time are eligible for one week of vacation/sick leave tuition credit per enrollment year (i.e. a child who is enrolled for 3 days/week will receive a “week” of vacation/sick leave based on a 3-day week). Vacation/sick leave must be used within the same week (Monday–Friday). A two-week notice is preferred.
 
-**¶:** Please Note: Current tuition terms and policies will be provided upon enrollment.
+\*\** Please Note: Current tuition terms and policies will be provided upon enrollment.
+
+### H﻿olding Fee
+
+For families who wish to take an extended leave of absence (4-12 weeks), a flat rate holding fee equal to one week's tuition is required in order to hold an enrollment opening.  Tuition charges will resume immediately upon return.  Families may use all accrued vacation benefits prior to the leave of absence but will become inelgible for vacation benefits once enrollment is place on hold. Children become eligible for applicable vacation benefits six months after their return to regular enrollment.  *Enrollment openings may only be place on hold with prior approval from the Enrollment Coordinator or a Director; a written request is required at least two weeks prior to the leave of absence.*
 
 ### Disenrollment
 
-Prior to a child’s disenrollment by the family, a two-week written notice is required.
+Prior to a child’s disenrollment by the family, a two-week written notice is required. 
 
 ### Holiday Closings/Child Absence
 
