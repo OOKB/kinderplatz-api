@@ -21,10 +21,10 @@ Serves infants ages 6 weeks–14/15 months. Parents provide formula or breastmil
 
 Serves toddlers ages 14/15 months–33 months. Morning snack, lunch and afternoon snacks are provided. Weekly special programs: sign language, music and movement, Spanish.
 
-| G﻿roup                      | R﻿atio                    |
-| --------------------------- | ------------------------- |
-| Bunnies: younger toddlers   | 12 toddlers / 3 teachers* |
-| Teddy Bears: older toddlers | 12 toddlers / 2 teachers* |
+| G﻿roup                      | R﻿atio                      |
+| --------------------------- | --------------------------- |
+| Bunnies: younger toddlers   | 12 toddlers / 2-3 teachers* |
+| Teddy Bears: older toddlers | 12 toddlers / 2 teachers*   |
 
 *\* Bunnies and Teddy Bears share 1–2 additional floater teachers.*
 
@@ -34,7 +34,7 @@ Serves children ages 33 months through 6 years. Morning snack, lunch and afterno
 
 | G﻿roup                        | R﻿atio                       |
 | ----------------------------- | ---------------------------- |
-| Caterpillars: young preschool | 18 children / 2 teachers*    |
+| Caterpillars: young preschool | 18 children / 3 teachers*    |
 | Admirals: older preschool     | 20 children / 2 teachers*    |
 | Monarchs: pre-k               | 20 children / 2 teachers*    |
 | Mariposas: Spanish immersion  | 18–20 children / 3 teachers* |
