@@ -43,4 +43,4 @@ Serves children ages 33 months through 6 years. Morning snack, lunch and afterno
 
 ### School-Age Care
 
-When space allows, care for school-age children is available by special arrangement. School-age children may join younger classrooms as “helpers” and occasionally gather as a small group with other school-age students for special projects and outings with a teacher.
+K﻿inderplatz serves children entering kindergarten through 8 years of age during the summer months through the operation of a small summer school-age program for up to 20 children with 2 teachers and a shared floater assistant.  This program runs mid-June through most of August each year.
