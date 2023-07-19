@@ -10,7 +10,7 @@ Kinderplatz is licensed for the child/teacher ratios indicated. Most days, an ad
 
 Serves infants ages 6 weeks–14/15 months. Parents provide formula or breastmilk until 12 months of age. Morning snack, lunch and afternoon snacks are provided. Special programs: sign language, and music and movement.
 
-| Group                      | R﻿atio                  |
+| Group                      | Ratio                   |
 | -------------------------- | ----------------------- |
 | Bluebirds: younger infants | 8 infants / 2 teachers* |
 | Penguins: older infants    | 8 infants / 2 teachers* |
@@ -21,7 +21,7 @@ Serves infants ages 6 weeks–14/15 months. Parents provide formula or breastmil
 
 Serves toddlers ages 14/15 months–33 months. Morning snack, lunch and afternoon snacks are provided. Weekly special programs: sign language, music and movement, Spanish.
 
-| G﻿roup                      | R﻿atio                      |
+| Group                       | Ratio                       |
 | --------------------------- | --------------------------- |
 | Bunnies: younger toddlers   | 12 toddlers / 2-3 teachers* |
 | Teddy Bears: older toddlers | 12 toddlers / 2 teachers*   |
@@ -32,7 +32,7 @@ Serves toddlers ages 14/15 months–33 months. Morning snack, lunch and afternoo
 
 Serves children ages 33 months through 6 years. Morning snack, lunch and afternoon snacks are provided. Weekly special programs: sign language, music and movement, Spanish language instruction (or English literacy support).
 
-| G﻿roup                        | R﻿atio                       |
+| Group                         | Ratio                        |
 | ----------------------------- | ---------------------------- |
 | Caterpillars: young preschool | 18 children / 3 teachers*    |
 | Admirals: older preschool     | 20 children / 2 teachers*    |
@@ -43,4 +43,4 @@ Serves children ages 33 months through 6 years. Morning snack, lunch and afterno
 
 ### School-Age Care
 
-K﻿inderplatz serves children entering kindergarten through 8 years of age during the summer months through the operation of a small summer school-age program for up to 20 children with 2 teachers and a shared floater assistant.  This program runs mid-June through most of August each year.
+Kinderplatz serves children entering kindergarten through 8 years of age during the summer months through the operation of a small summer school-age program for up to 20 children with 2 teachers and a shared floater assistant.  This program runs mid-June through most of August each year.
