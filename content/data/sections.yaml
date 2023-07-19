@@ -19,15 +19,8 @@ sections:
         src: /images/general/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
       - alt: hand prints
         src: /images/general/bernard-hermant-5zu86kyV_UY-unsplash.jpg
-  - page: enrichment
-    images:
-      - src: /images/general/la-rel-easter-KuCGlBXjH_o-unsplash.jpg
-        alt: arm of child playing game of stacking colored blocks
-      - src: /images/general/ashton-bingham-SAHBl2UpXco-unsplash.jpg
-        alt: Boy in blue shirt yelling near boy in green crew-neck shirt
     links:
-      - tuition
-      - introduction
+      - enrichment
   - page: agegroups
     sectionColor: lime
     images:
@@ -64,6 +57,15 @@ sections:
         src: /images/general/elizaveta-dushechkina-XPLCCRTX3ic-unsplash.jpg
       - alt: Child in green shirt looking at a map
         src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
+  - page: enrichment
+    images:
+      - src: /images/general/la-rel-easter-KuCGlBXjH_o-unsplash.jpg
+        alt: arm of child playing game of stacking colored blocks
+      - src: /images/general/ashton-bingham-SAHBl2UpXco-unsplash.jpg
+        alt: Boy in blue shirt yelling near boy in green crew-neck shirt
+    links:
+      - tuition
+      - introduction
   - page: testimonials
     sectionColor: pink
     images:
