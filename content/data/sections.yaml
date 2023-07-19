@@ -19,15 +19,6 @@ sections:
         src: /images/general/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
       - alt: hand prints
         src: /images/general/bernard-hermant-5zu86kyV_UY-unsplash.jpg
-  - page: agegroups
-    sectionColor: lime
-    images:
-      - src: /images/general/caleb-woods-ecRuhwPIW7c-unsplash.jpg
-        alt: child plays with lego blocks
-      - src: /images/general/wendy-aros-routman-DuIPj3lqItY-unsplash.jpg
-        alt: child ready to throw large orange ball
-    links:
-      - gallery
   - page: enrichment
     images:
       - src: /images/general/la-rel-easter-KuCGlBXjH_o-unsplash.jpg
@@ -37,6 +28,15 @@ sections:
     links:
       - tuition
       - introduction
+  - page: agegroups
+    sectionColor: lime
+    images:
+      - src: /images/general/caleb-woods-ecRuhwPIW7c-unsplash.jpg
+        alt: child plays with lego blocks
+      - src: /images/general/wendy-aros-routman-DuIPj3lqItY-unsplash.jpg
+        alt: child ready to throw large orange ball
+    links:
+      - gallery
   - page: tuition
     sectionColor: sky
     images:
@@ -48,7 +48,6 @@ sections:
       - enrichment/variable
       - enrichment/fieldtrips
       - enrichment/kinderroo
-
   - page: credentials
     sectionColor: fuchsia
     images:
