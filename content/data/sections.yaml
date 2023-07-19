@@ -8,8 +8,6 @@ sections:
         src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
       - alt: kid reading book
         src: /images/general/jonathan-borba-Z1Oyw2snqn8-unsplash.jpg
-      - alt: baby with musical toy
-        src: /images/general/jelleke-vanooteghem-bNUGJD3gO94-unsplash.jpg
     links:
       - enrichment/immersion
       - testimonials
@@ -74,7 +72,5 @@ sections:
         alt: child holding foam paint brush that has pink paint on it
       - src: /images/general/senjuti-kundu-JfolIjRnveY-unsplash.jpg
         alt: smiling child looking up with paint on face neck and arms
-      - src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
-        alt: right foot of child painting on white paper
   - page: gallery
     sectionColor: pink
