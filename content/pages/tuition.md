@@ -22,7 +22,7 @@ The fees and policies will be re-evaluated prior to September pending status of 
 
 | Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young Preschool | Preschool/ Pre-k | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | --------------- | ---------------- | ----------------- |
-| 4–5*                              | $482.00 | $470.00          | $380.00        | $357.00         | $339.00          | $350.00           |
+| 4–5[^1]                              | $482.00 | $470.00          | $380.00        | $357.00         | $339.00          | $350.00           |
 | 3                                 | $357.00 | $350.00          | $283.00        | $266.00         | $252.00          | $261.00           |
 | 2                                 | $239.00 | $236.00          | $196.00        | $183.00         | $171.00          | $177.00           |
 | Daily Drop-In (when space allows) | $122.00 | $118.00          | $96.00         | $86.00          | $87.00           | $90.00            |
@@ -31,7 +31,7 @@ The fees and policies will be re-evaluated prior to September pending status of 
 
 | Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young Preschool | Preschool/ Pre-K | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | --------------- | ---------------- | ----------------- |
-| 4–5*                              | $455.00 | $443.00          | $367.00        | $342.00         | $324.00          | $335.00           |
+| 4–5[^1]                              | $455.00 | $443.00          | $367.00        | $342.00         | $324.00          | $335.00           |
 | 3                                 | $338.00 | $329.00          | $272.00        | $248.00         | $243.00          | $252.00           |
 | 2                                 | $229.00 | $220.00          | $183.00        | $166.00         | $162.00          | $168.00           |
 | Daily Drop-In (when space allows) | $116.00 | $111.00          | $92.00         | $85.00          | $84.00           | $87.00            |
@@ -40,14 +40,17 @@ The fees and policies will be re-evaluated prior to September pending status of 
 
 ### Federal and Non-Federal Families
 
-| Registration Fee + Deposit | $130 (federal)/$160 (non-federal) + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED OR ACCEPTED UNTIL A CHILD’S START DATE IS CONFIRMED.[^1]* |
-|Holding Fee|Holding fee program unavailable; reinstatement date TBD.|
-|Federal Association Dues|$100/year\*\*|
-|Hourly/Overtime Care|$15/hour (when space allows)|
-|School Age|$250/week, or $65/day (summer, when space allows)|
+| Additional | Fee |
+| --- | --- |
+| Registration Fee + Deposit | $130 (federal)/$160 (non-federal) + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED OR ACCEPTED UNTIL A CHILD’S START DATE IS CONFIRMED.[^2]* |
+| Holding Fee | Holding fee program unavailable; reinstatement date TBD.|
+| Federal Association Dues | $100/year[^3] |
+| Hourly/Overtime Care | $15/hour (when space allows) |
+| School Age | $250/week, or $65/day (summer, when space allows) |
 
-**\*** Sibling Discount of 10% off tuition is available for additional (older) child(ren) for full-time families with (all) siblings on a full-time schedule.
+[^1] Sibling Discount of 10% off tuition is available for additional (older) child(ren) for full-time families with (all) siblings on a full-time schedule.
 
-**\*\*** Payment options provided separately. Please see Association Bylaws in our Parent Policy Handbook for more information.
+[^2] Infant enrollment is highly competitive and start dates are often confirmed up to six months prior to the child’s first day. Please plan ahead and turn in enrollment forms early to avoid missing the enrollment window. Openings are not guaranteed with late enrollment, regardless of federal employment status and sibling preference. Every effort will be made to honor start date requests, but flexibility from families may be required.
 
-[^1] Infant enrollment is highly competitive and start dates are often confirmed up to six months prior to the child’s first day. Please plan ahead and turn in enrollment forms early to avoid missing the enrollment window. Openings are not guaranteed with late enrollment, regardless of federal employment status and sibling preference. Every effort will be made to honor start date requests, but flexibility from families may be required.
+[^3] Payment options provided separately. Please see Association Bylaws in our Parent Policy Handbook for more information.
+
