@@ -4,8 +4,8 @@ slug: approach/open-door
 ---
 ## Open Door Policy
 
-Our Open Door Policy (below) will be re-implemented when deemed appropriate by the CDC and the MDH. Currently, for everyone's health and safety, a very limited number of classroom visitors are allowed into classrooms only by appointment and under supervision and strict Visitor Protocol Guidelines.
+Our Open Door Policy (below) is gradually being re-implemented since the end of the COVID-19 pandemic. Currently, for everyone's health and safety, a limited number of classroom visitors are allowed into classrooms, by appointment and under supervision.  Parents may now stop into the cubby areas of their children's classrooms briefly at drop-off and pick-up times to assist with dropping off and picking up their personal items.
 
-We have an “open door” policy at Kinderplatz. Parents may visit their children in our facilities any time they wish. Visiting parents are encouraged to participate in the classroom curriculum and routine during visits to avoid disrupting existing classroom schedules and activities. If you wish to meet with the Director or a staff member, please make an appointment so that appropriate staffing arrangements can be made.
+We have an “open door” policy at Kinderplatz. Parents may visit their children in our facilities any time they wish. Visiting parents are asked to follow current health protocols, classroom curriculum and routines,  and are encouraged to participate in curriculum as appropriate.  Parents who wish to meet with an administrator or a staff member are asked to make an appointment so that appropriate staffing arrangements can be made.
 
-Kinderplatz appreciates parents’ valuable input on the care of their children and encourages parent participation. Parents can visit as much or as little as their schedules (and children) will allow. Many breastfeeding mothers enjoy taking advantage of this benefit daily.
+Kinderplatz appreciates parents’ valuable input on the care of their children and encourages parent participation, as health protocols allow. Many breastfeeding mothers enjoy stopping in to nurse their children as their work schedules allow.
