@@ -6,7 +6,6 @@ date: 2023-03-09T11:33:51.714Z
 draft: false
 lastmod: 2023-07-17T15:37:49.649Z
 ---
-
 ## Tuition
 
 All rates listed below include most enrichment programs, as well as lunch and snacks (does not include special dietary requirements). Some activity fees are charged separately. Tuition is due in full by 10:00 every Tuesday. A late fee of $30 (per week) is applied to any past due charges and returned checks.
@@ -16,6 +15,7 @@ Electronic forms of payment are strongly preferred. Paying via an active electro
 Kinderplatz accepts families who receive child care subsidies from various county or government assistance programs, including Military Subsidy programs.
 
 *TUITION FEES AND POLICIES March 6, 2023 – September 1, 2023*
+
 The fees and policies will be re-evaluated prior to September pending status of health crisis and state grant funding.
 
 ### Non-Federal Families
@@ -38,9 +38,9 @@ The fees and policies will be re-evaluated prior to September pending status of 
 
 ## Terms
 
-**Federal and Non-Federal Families**
+### Federal and Non-Federal Families
 
-|Registration Fee + Deposit|$130 (federal)/$160 (non-federal) + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED OR ACCEPTED UNTIL A CHILD’S START DATE IS CONFIRMED.Ɨ*|
+| Registration Fee + Deposit | $130 (federal)/$160 (non-federal) + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED OR ACCEPTED UNTIL A CHILD’S START DATE IS CONFIRMED.[^1]* |
 |Holding Fee|Holding fee program unavailable; reinstatement date TBD.|
 |Federal Association Dues|$100/year\*\*|
 |Hourly/Overtime Care|$15/hour (when space allows)|
@@ -50,4 +50,4 @@ The fees and policies will be re-evaluated prior to September pending status of 
 
 **\*\*** Payment options provided separately. Please see Association Bylaws in our Parent Policy Handbook for more information.
 
-**Ɨ** Infant enrollment is highly competitive and start dates are often confirmed up to six months prior to the child’s first day. Please plan ahead and turn in enrollment forms early to avoid missing the enrollment window. Openings are not guaranteed with late enrollment, regardless of federal employment status and sibling preference. Every effort will be made to honor start date requests, but flexibility from families may be required.
+[^1] Infant enrollment is highly competitive and start dates are often confirmed up to six months prior to the child’s first day. Please plan ahead and turn in enrollment forms early to avoid missing the enrollment window. Openings are not guaranteed with late enrollment, regardless of federal employment status and sibling preference. Every effort will be made to honor start date requests, but flexibility from families may be required.
