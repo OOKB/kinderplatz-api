@@ -6,7 +6,7 @@ slug: agegroups/summerschool
 
 An experienced team of teachers and assistants plans and implements a wide variety of activities aimed at extending children’s learning throughout the summer.
 
-When there is enough interest, an experienced teacher sets up a separate classroom for a full summer school-age program. Otherwise, when space allows, summer care for school-age children is available by special arrangement (and occasionally during the school year, as well). School-age children may join younger classrooms as “helpers” and occasionally gather as a small group with other school-age students for special projects and outings with a teacher.
+When there is enough interest, an experienced teacher sets up a separate classroom for a full summer school-age program for children entering kindergarten through age 8 years.
 
 ### Curriculum
 
