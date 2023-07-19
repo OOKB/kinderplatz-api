@@ -40,13 +40,13 @@ The fees and policies will be re-evaluated prior to September pending status of 
 
 ### Federal and Non-Federal Families
 
-| Additional Fees            | Amount                                                                                                                                                                                                                        |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Additional Fees            | Amount                                                                                                                                                                                                                       |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Registration Fee + Deposit | $130 (federal)/$160 (non-federal) + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED OR ACCEPTED UNTIL A CHILD’S START DATE IS CONFIRMED.*<﻿sup>Ɨ</sup> |
-| Holding Fee                | Holding fee program unavailable; reinstatement date TBD.                                                                                                                                                                      |
+| Holding Fee                | Holding fee program unavailable; reinstatement date TBD.                                                                                                                                                                     |
 | Federal Association Dues   | $100/year<﻿sup>ƥ</sup>                                                                                                                                                                                                       |
-| Hourly/Overtime Care       | $15/hour (when space allows)                                                                                                                                                                                                  |
-| School Age                 | $250/week, or $65/day (summer, when space allows)                                                                                                                                                                             |
+| Hourly/Overtime Care       | $15/hour (when space allows)                                                                                                                                                                                                 |
+| School Age                 | $280/week, or $70/day (summer, when space allows)                                                                                                                                                                            |
 
 **§:** Sibling Discount of 10% off tuition is available for additional (older) child(ren) for full-time families with (all) siblings on a full-time schedule.
 
