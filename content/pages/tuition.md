@@ -10,11 +10,11 @@ lastmod: 2023-07-17T15:37:49.649Z
 
 All rates listed below include most enrichment programs, as well as lunch and snacks (does not include special dietary requirements). Some activity fees are charged separately. Tuition is due in full by 10:00 every Tuesday. A late fee of $30 (per week) is applied to any past due charges and returned checks.
 
-Electronic forms of payment are strongly preferred. Paying via an active electronic payment account will keep the account current and avoid assessment of late payment fees. Please contact our Accounts Manager to set up electronic payments.
+Electronic forms of payment are strongly preferred. Paying via an active electronic payment account will keep the account current and avoid assessment of late payment fees. Please contact our Director of Accounts and Operations to set up electronic payments.
 
 Kinderplatz accepts families who receive child care subsidies from various county or government assistance programs, including Military Subsidy programs.
 
-*TUITION FEES AND POLICIES March 6, 2023 – September 1, 2023*
+*TUITION FEES AND POLICIES September 4, 2023 - August 30, 2024*
 
 The fees and policies will be re-evaluated prior to September pending status of health crisis and state grant funding.
 
@@ -22,19 +22,19 @@ The fees and policies will be re-evaluated prior to September pending status of 
 
 | Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young Preschool | Preschool/ Pre-k | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | --------------- | ---------------- | ----------------- |
-| 4–5 <sup>§</sup>                  | $482.00 | $470.00          | $380.00        | $357.00         | $339.00          | $350.00           |
-| 3                                 | $357.00 | $350.00          | $283.00        | $266.00         | $252.00          | $261.00           |
-| 2                                 | $239.00 | $236.00          | $196.00        | $183.00         | $171.00          | $177.00           |
-| Daily Drop-In (when space allows) | $122.00 | $118.00          | $96.00         | $86.00          | $87.00           | $90.00            |
+| 4–5 <sup>§</sup>                  | $487.00 | $475.00          | $384.00        | $361.00         | $343.00          | $354.00           |
+| 3                                 | $361.00 | $354.00          | $286.00        | $269.00         | $255.00          | $264.00           |
+| 2                                 | $242.00 | $239.00          | $198.00        | $185.00         | $173.00          | $179.00           |
+| Daily Drop-In (when space allows) | $123.00 | $119.00          | $97.00         | $87.00          | $88.00           | $91.00            |
 
 ### Federal Families
 
 | Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young Preschool | Preschool/ Pre-K | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | --------------- | ---------------- | ----------------- |
-| 4–5 <sup>§</sup>                  | $455.00 | $443.00          | $367.00        | $342.00         | $324.00          | $335.00           |
-| 3                                 | $338.00 | $329.00          | $272.00        | $248.00         | $243.00          | $252.00           |
-| 2                                 | $229.00 | $220.00          | $183.00        | $166.00         | $162.00          | $168.00           |
-| Daily Drop-In (when space allows) | $116.00 | $111.00          | $92.00         | $85.00          | $84.00           | $87.00            |
+| 4–5 <sup>§</sup>                  | $460.00 | $448.00          | $371.00        | $346.00         | $328.00          | $339.00           |
+| 3                                 | $342.00 | $333.00          | $275.00        | $251.00         | $246.00          | $255.00           |
+| 2                                 | $232.00 | $222.00          | $185.00        | $168.00         | $164.00          | $170.00           |
+| Daily Drop-In (when space allows) | $117.00 | $112.00          | $93.00         | $86.00          | $85.00           | $88.00            |
 
 ## Terms
 
