@@ -18,7 +18,7 @@ Kinderplatz accepts families who receive child care subsidies from various count
 
 The fees and policies will be re-evaluated prior to September to determine appropriate annual increase.
 
-### Non-Federal Families 
+### Non-Federal Families
 
 | Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young  Preschool | Preschool | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | ---------------- | --------- | ----------------- |
@@ -40,13 +40,13 @@ The fees and policies will be re-evaluated prior to September to determine appro
 
 ### Federal and Non-Federal Families
 
-| Additional Fees                       | Amount                                                                                                                                                                                                            |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Registration Fee + Deposit            | Federal: waived/Non-federal: $160 + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED UNTIL A CHILD’S START DATE IS CONFIRMED.* <sup>Ɨ</sup>  |
-| Holding Fee                           | Please inquire in the office for more information about this option.                                                                                                                                              |
-| Federal Association Dues <sup>ƥ</sup> | $100/year <sup>ƥ</sup>                                                                                                                                                                                            |
-| Hourly/Overtime Care                  | $15/hour (when space allows)                                                                                                                                                                                      |
-| School Age                            | $308/week, or $77/day (summer, when space allows)                                                                                                                                                                 |
+| Additional Fees            | Amount                                                                                                                                                                                                           |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Registration Fee + Deposit | Federal: waived/Non-federal: $160 + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED UNTIL A CHILD’S START DATE IS CONFIRMED.* <sup>Ɨ</sup> |
+| Holding Fee                | Please inquire in the office for more information about this option.                                                                                                                                             |
+| Federal Association Dues   | $100/year <sup>ƥ</sup>                                                                                                                                                                                           |
+| Hourly/Overtime Care       | $15/hour (when space allows)                                                                                                                                                                                     |
+| School Age                 | $308/week, or $77/day (summer, when space allows)                                                                                                                                                                |
 
 **§:** Sibling Discount of 10% off tuition is available for additional (older) child(ren) for full-time families with (all) siblings on a full-time schedule.
 
