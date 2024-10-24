@@ -5,7 +5,7 @@ sections:
     sectionColor: orange
     images:
       - alt: kid looking at map
-        src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
+        src: /media/jeshoots-com-lkrecvzeojq-unsplash.jpg
       - alt: kid reading book
         src: /images/general/jonathan-borba-Z1Oyw2snqn8-unsplash.jpg
     links:
@@ -36,7 +36,8 @@ sections:
       - src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
         alt: Child foot with finger paint on paper
       - src: /images/general/michael-podger-1hBm6dmUrH0-unsplash.jpg
-        alt: Boy with knit blue hat standing in front of a yellow wall looking off into the distance
+        alt: Boy with knit blue hat standing in front of a yellow wall looking off into
+          the distance
     links:
       - enrichment/variable
       - enrichment/fieldtrips
@@ -53,7 +54,8 @@ sections:
     links:
       - gallery
     images:
-      - alt: Child in blue sweatshirt with white polkadots peering through a large magnifying glass
+      - alt: Child in blue sweatshirt with white polkadots peering through a large
+          magnifying glass
         src: /images/general/elizaveta-dushechkina-XPLCCRTX3ic-unsplash.jpg
       - alt: Child in green shirt looking at a map
         src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
@@ -66,6 +68,7 @@ sections:
     links:
       - tuition
       - introduction
+    sectionColor: fuchsia
   - page: testimonials
     sectionColor: pink
     images:
