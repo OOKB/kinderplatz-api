@@ -5,7 +5,7 @@ sections:
     sectionColor: orange
     images:
       - alt: kid looking at map
-        src: public/media/jeshoots-com-lkrecvzeojq-unsplash.jpg
+        src: /public/media/jeshoots-com-lkrecvzeojq-unsplash.jpg
       - alt: kid reading book
         src: /images/general/jonathan-borba-Z1Oyw2snqn8-unsplash.jpg
     links:
