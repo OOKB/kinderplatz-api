@@ -6,7 +6,7 @@ lastmod: 2023-04-25T14:16:30.190Z
 ---
 ## Welcome to Kinderplatz
 
-Kinderplatz provides an environment for creative and productive learning, living and thinking. Our philosophy is based on the principles of Dr. Rudolph Drekurs:
+Kinderplatz provides an environment for creative and productive learning, living and thinking. Our philosophy is based on the principles of Dr. Rudolph Dreikurs:
 
 > Have fun together, and thereby develop a relationship based on mutual respect, love and affection, mutual confidence and truth, and feeling of belonging. Playing together, working together, sharing interesting and exciting experiences lead to the kind of closeness that is essential for cooperation.
 
