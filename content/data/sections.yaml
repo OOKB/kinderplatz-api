@@ -16,7 +16,7 @@ sections:
     sectionColor: yellow
     images:
       - alt: boy smiles
-        src: /images/general/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
+        src: /media/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
       - alt: hand prints
         src: /images/general/bernard-hermant-5zu86kyV_UY-unsplash.jpg
     links:
