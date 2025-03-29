@@ -10,67 +10,37 @@ sections:
       - gallery
   - page: approach
     sectionColor: yellow
-    images:
-      - alt: boy smiles
-        src: /media/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
-      - alt: hand prints
-        src: /images/general/bernard-hermant-5zu86kyV_UY-unsplash.jpg
+    images: []
     links:
       - enrichment
   - page: agegroups
     sectionColor: lime
-    images:
-      - src: /images/general/caleb-woods-ecRuhwPIW7c-unsplash.jpg
-        alt: child plays with lego blocks
-      - src: /images/general/wendy-aros-routman-DuIPj3lqItY-unsplash.jpg
-        alt: child ready to throw large orange ball
+    images: []
     links:
       - gallery
   - page: tuition
     sectionColor: sky
-    images:
-      - src: /images/general/bernard-hermant-Yfjl81rcY9M-unsplash.jpg
-        alt: Child foot with finger paint on paper
-      - src: /images/general/michael-podger-1hBm6dmUrH0-unsplash.jpg
-        alt: Boy with knit blue hat standing in front of a yellow wall looking off into
-          the distance
+    images: []
     links:
       - enrichment/variable
       - enrichment/fieldtrips
       - enrichment/kinderroo
   - page: credentials
     sectionColor: fuchsia
-    images:
-      - alt: confetti
-        src: /images/general/jason-leung-Xaanw0s0pMk-unsplash.jpg
-      - alt: check
-        src: /images/general/lewis-keegan-skillscouter-com-XQaqV5qYcXg-unsplash.jpg
+    images: []
   - page: contact
     sectionColor: red
     links:
       - gallery
-    images:
-      - alt: Child in blue sweatshirt with white polkadots peering through a large
-          magnifying glass
-        src: /images/general/elizaveta-dushechkina-XPLCCRTX3ic-unsplash.jpg
-      - alt: Child in green shirt looking at a map
-        src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
+    images: []
   - page: enrichment
-    images:
-      - src: /images/general/la-rel-easter-KuCGlBXjH_o-unsplash.jpg
-        alt: arm of child playing game of stacking colored blocks
-      - src: /images/general/ashton-bingham-SAHBl2UpXco-unsplash.jpg
-        alt: Boy in blue shirt yelling near boy in green crew-neck shirt
+    images: []
     links:
       - tuition
       - introduction
     sectionColor: fuchsia
   - page: testimonials
     sectionColor: pink
-    images:
-      - src: /images/general/mike-fox-Ym301WfcEkE-unsplash.jpg
-        alt: child holding foam paint brush that has pink paint on it
-      - src: /images/general/senjuti-kundu-JfolIjRnveY-unsplash.jpg
-        alt: smiling child looking up with paint on face neck and arms
+    images: []
   - page: gallery
     sectionColor: pink
