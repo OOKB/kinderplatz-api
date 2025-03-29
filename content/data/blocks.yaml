@@ -2,28 +2,47 @@ blocks:
   - word: Learn
     color: orange
     link: introduction
+    image:
+      src: /media/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
+      alt: test
   - alt: boy smiles
     image: /images/general/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
+    color: sky
   - word: Share
     alt: finger paint hand prints
     image: /images/general/bernard-hermant-5zu86kyV_UY-unsplash.jpg
   - word: Grow
     color: white
+    image:
+      src: /media/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
+      alt: test
   - word: Create
     color: lime
     link: agegroups
+    image:
+      src: /media/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
+      alt: test
   - alt: girl smiles
     image: /images/general/michael-mims-ISczHsDwK1M-unsplash.jpg
   - word: Laugh
     color: white
+    image:
+      src: /media/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
+      alt: test
   - word: Love
     color: fuchsia
     link: credentials
+    image:
+      src: /media/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
+      alt: test
   - word: null
     image: /images/general/caleb-woods-ecRuhwPIW7c-unsplash.jpg
   - word: Smile
     color: sky
     link: tuition
+    image:
+      src: /media/andriyko-podilnyk-XH9NoY2RTwY-unsplash.jpg
+      alt: test
   - word: null
     image: /images/general/caleb-woods-VZILDYoqn_U-unsplash.jpg
   - word: Play
