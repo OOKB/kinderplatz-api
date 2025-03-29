@@ -11,6 +11,7 @@ blocks:
   - word: Share
     alt: finger paint hand prints
     image: /images/general/bernard-hermant-5zu86kyV_UY-unsplash.jpg
+    color: lime
   - word: Grow
     color: white
     image:
@@ -47,3 +48,4 @@ blocks:
     image: /images/general/caleb-woods-VZILDYoqn_U-unsplash.jpg
   - word: Play
     image: /images/general/markus-spiske-nvKQ1kxheRc-unsplash.jpg
+    color: red
