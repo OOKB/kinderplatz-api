@@ -3,11 +3,7 @@ menuSize: 6
 sections:
   - page: introduction
     sectionColor: orange
-    images:
-      - alt: kid looking at map
-        src: /images/general/jeshoots-com-LKREcvZeoJQ-unsplash.jpg
-      - alt: kid reading book
-        src: /images/general/jonathan-borba-Z1Oyw2snqn8-unsplash.jpg
+    images: []
     links:
       - enrichment/immersion
       - testimonials
