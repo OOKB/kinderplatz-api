@@ -20,21 +20,21 @@ The fees and policies will be re-evaluated prior to September to determine appro
 
 ### Non-Federal Families
 
-| Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young  Preschool | Preschool | Spanish Immersion |
-| --------------------------------- | ------- | ---------------- | -------------- | ---------------- | --------- | ----------------- |
-| 4–5 <sup>§</sup>                  | $507    | $497             | $400           | $376             | $361      | $369              |
-| 3                                 | $376    | $370             | $298           | $280             | $268      | $275              |
-| 2                                 | $252    | $250             | $206           | $193             | $182      | $187              |
-| Daily Drop-In (when space allows) | $128    | $125             | $101           | $91              | $93       | $95               |
+| Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young  Preschool | Preschool | Pre-K | Spanish Immersion |
+| --------------------------------- | ------- | ---------------- | -------------- | ---------------- | --------- | ----- | ----------------- |
+| 4–5 <sup>§</sup>                  | $507    | $497             | $400           | $376             | $361      | $356      | $369              |
+| 3                                 | $376    | $370             | $298           | $280             | $268     | $265       | $275              |
+| 2                                 | $252    | $250             | $206           | $193             | $182     | $180       | $187              |
+| Daily Drop-In (when space allows) | $128    | $125             | $101           | $91              | $93      | $93       | $95               |
 
 ### Federal Families
 
-| Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young Preschool | Preschool | Spanish Immersion |
+| Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young Preschool | Preschool | Pre-K | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | --------------- | --------- | ----------------- |
-| 4–5 <sup>§</sup>                  | $478    | $468             | $386           | $360            | $344      | $353              |
-| 3                                 | $356    | $348             | $286           | $261            | $258      | $265              |
-| 2                                 | $241    | $232             | $192           | $175            | $172      | $177              |
-| Daily Drop-In (when space allows) | $122    | $117             | $97            | $89             | $89       | $92               |
+| 4–5 <sup>§</sup>                  | $478    | $468             | $386           | $360            | $344    | $339        | $353              |
+| 3                                 | $356    | $348             | $286           | $261            | $258    | $255        | $265              |
+| 2                                 | $241    | $232             | $192           | $175            | $172  | $170          | $177              |
+| Daily Drop-In (when space allows) | $122    | $117             | $97            | $89             | $89   | $88          | $92               |
 
 ## Terms
 
