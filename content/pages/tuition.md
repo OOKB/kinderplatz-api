@@ -44,7 +44,7 @@ The fees and policies will be re-evaluated prior to September to determine appro
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Registration Fee + Deposit | Federal: waived/Non-federal: $160 + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED UNTIL A CHILD’S START DATE IS CONFIRMED.* |
 | Holding Fee                | Please inquire in the office for more information about this option.                                                                                                                                             |
-| Federal Association Dues   | $100/year<sup>ƥ</sup>                                                                                                                                                                                           |
+| Federal Association Dues   | $100/year                                                                                                                                                                                           |
 | Hourly/Overtime Care       | $15/hour (when space allows)                                                                                                                                                                                     |
 | School Age                 | $308/week, or $77/day (summer, when space allows)                                                                                                                                                                |
 
