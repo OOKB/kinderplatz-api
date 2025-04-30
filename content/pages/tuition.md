@@ -22,7 +22,7 @@ The fees and policies will be re-evaluated prior to September to determine appro
 
 | Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young  Preschool | Preschool | Pre-K | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | ---------------- | --------- | ----- | ----------------- |
-| 4–5 <sup>§</sup>                  | $507    | $497             | $400           | $376             | $361      | $356  | $369              |
+| 4–5<sup>§</sup>                  | $507    | $497             | $400           | $376             | $361      | $356  | $369              |
 | 3                                 | $376    | $370             | $298           | $280             | $268      | $265  | $275              |
 | 2                                 | $252    | $250             | $206           | $193             | $182      | $180  | $187              |
 | Daily Drop-In (when space allows) | $128    | $125             | $101           | $91              | $93       | $93   | $95               |
@@ -31,7 +31,7 @@ The fees and policies will be re-evaluated prior to September to determine appro
 
 | Days/Week                         | Infants | Younger Toddlers | Older Toddlers | Young Preschool | Preschool | Pre-K | Spanish Immersion |
 | --------------------------------- | ------- | ---------------- | -------------- | --------------- | --------- | ----- | ----------------- |
-| 4–5 <sup>§</sup>                  | $478    | $468             | $386           | $360            | $344      | $339  | $353              |
+| 4–5<sup>§</sup>                  | $478    | $468             | $386           | $360            | $344      | $339  | $353              |
 | 3                                 | $356    | $348             | $286           | $261            | $258      | $255  | $265              |
 | 2                                 | $241    | $232             | $192           | $175            | $172      | $170  | $177              |
 | Daily Drop-In (when space allows) | $122    | $117             | $97            | $89             | $89       | $88   | $92               |
@@ -42,9 +42,9 @@ The fees and policies will be re-evaluated prior to September to determine appro
 
 | Additional Fees            | Amount                                                                                                                                                                                                           |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Registration Fee + Deposit | Federal: waived/Non-federal: $160 + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED UNTIL A CHILD’S START DATE IS CONFIRMED.* <sup>Ɨ</sup> |
+| Registration Fee + Deposit | Federal: waived/Non-federal: $160 + a non-refundable two-week deposit is required – due upon confirmation of child’s start date. *NO FEES WILL BE CHARGED UNTIL A CHILD’S START DATE IS CONFIRMED.*<sup>Ɨ</sup> |
 | Holding Fee                | Please inquire in the office for more information about this option.                                                                                                                                             |
-| Federal Association Dues   | $100/year <sup>ƥ</sup>                                                                                                                                                                                           |
+| Federal Association Dues   | $100/year<sup>ƥ</sup>                                                                                                                                                                                           |
 | Hourly/Overtime Care       | $15/hour (when space allows)                                                                                                                                                                                     |
 | School Age                 | $308/week, or $77/day (summer, when space allows)                                                                                                                                                                |
 
